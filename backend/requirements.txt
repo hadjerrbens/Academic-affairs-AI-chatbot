@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+motor
+pyjwt
+argon2-cffi
+groq
+voyageai
+pytest
+pytest-asyncio
+httpx
