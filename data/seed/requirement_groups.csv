@@ -1,0 +1,13 @@
+group_id,program_code,group_type,title,min_courses,min_credits,min_grade_points,note
+BS_CS_R1,BS_CS,REQUIRED,Core requirement 1,3,5,1.0,Every listed course must be passed.
+BS_CS_R2,BS_CS,REQUIRED,Core requirement 2,3,9,1.0,Every listed course must be passed.
+BS_CS_E1,BS_CS,ELECTIVE,Elective group 1,2,0,1.0,At least 2 courses from the pool.
+BS_CS_C1,BS_CS,CREDITS,Credit group 1,0,15,1.0,At least 15 credits from the pool.
+BS_MATH_R1,BS_MATH,REQUIRED,Core requirement 1,3,6,1.0,Every listed course must be passed.
+BS_MATH_R2,BS_MATH,REQUIRED,Core requirement 2,3,10,1.0,Every listed course must be passed.
+BS_MATH_E1,BS_MATH,ELECTIVE,Elective group 1,2,0,1.0,At least 2 courses from the pool.
+BS_MATH_C1,BS_MATH,CREDITS,Credit group 1,0,15,1.0,At least 15 credits from the pool.
+BS_BUS_R1,BS_BUS,REQUIRED,Core requirement 1,3,6,1.0,Every listed course must be passed.
+BS_BUS_R2,BS_BUS,REQUIRED,Core requirement 2,3,5,1.0,Every listed course must be passed.
+BS_BUS_E1,BS_BUS,ELECTIVE,Elective group 1,2,0,1.0,At least 2 courses from the pool.
+BS_BUS_C1,BS_BUS,CREDITS,Credit group 1,0,15,1.0,At least 15 credits from the pool.

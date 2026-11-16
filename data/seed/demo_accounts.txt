@@ -1,0 +1,14 @@
+# DEMO ACCOUNTS - plaintext on purpose, DO NOT COMMIT.
+# login: <student_id lowercased>@student.example.edu   password: Demo!2026
+
+student_id   scenario                 program   email
+S0000001     DEMO_ELIGIBLE            BS_CS     s0000001@student.example.edu
+S0000002     DEMO_NEAR_GRAD           BS_CS     s0000002@student.example.edu
+S0000003     DEMO_PROBATION           BS_MATH   s0000003@student.example.edu
+S0000004     DEMO_WARNING             BS_BUS    s0000004@student.example.edu
+S0000005     DEMO_REPEAT              BS_CS     s0000005@student.example.edu
+S0000006     DEMO_REPEAT_WORSE        BS_MATH   s0000006@student.example.edu
+S0000007     DEMO_F                   BS_BUS    s0000007@student.example.edu
+S0000008     DEMO_CLASH               BS_CS     s0000008@student.example.edu
+S0000009     DEMO_HOLD                BS_BUS    s0000009@student.example.edu
+S0000010     DEMO_DISMISSED           BS_CS     s0000010@student.example.edu

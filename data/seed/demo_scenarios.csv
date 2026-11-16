@@ -1,0 +1,11 @@
+student_id,scenario,program_code,year,email,password
+S0000001,DEMO_ELIGIBLE,BS_CS,4,s0000001@student.example.edu,Demo!2026
+S0000002,DEMO_NEAR_GRAD,BS_CS,4,s0000002@student.example.edu,Demo!2026
+S0000003,DEMO_PROBATION,BS_MATH,3,s0000003@student.example.edu,Demo!2026
+S0000004,DEMO_WARNING,BS_BUS,3,s0000004@student.example.edu,Demo!2026
+S0000005,DEMO_REPEAT,BS_CS,3,s0000005@student.example.edu,Demo!2026
+S0000006,DEMO_REPEAT_WORSE,BS_MATH,3,s0000006@student.example.edu,Demo!2026
+S0000007,DEMO_F,BS_BUS,2,s0000007@student.example.edu,Demo!2026
+S0000008,DEMO_CLASH,BS_CS,2,s0000008@student.example.edu,Demo!2026
+S0000009,DEMO_HOLD,BS_BUS,3,s0000009@student.example.edu,Demo!2026
+S0000010,DEMO_DISMISSED,BS_CS,3,s0000010@student.example.edu,Demo!2026

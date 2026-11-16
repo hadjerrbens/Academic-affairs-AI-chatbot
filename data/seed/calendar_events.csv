@@ -1,0 +1,21 @@
+event_id,term,event_type,name,start_date,end_date,description
+EV00001,Fall 2026,semester_start,Semester begins,2026-08-24,2026-08-24,Semester begins (Fall 2026).
+EV00002,Fall 2026,registration_open,Registration opens,2026-04-13,2026-04-13,Registration opens (Fall 2026).
+EV00003,Fall 2026,registration_close,Registration closes,2026-08-14,2026-08-14,Registration closes (Fall 2026).
+EV00004,Fall 2026,add_drop_deadline,Add/drop deadline,2026-09-04,2026-09-04,Add/drop deadline (Fall 2026).
+EV00005,Fall 2026,holiday,Holiday,2026-09-07,2026-09-07,Holiday (Fall 2026).
+EV00006,Fall 2026,reading_day,Reading day,2026-12-06,2026-12-06,Reading day (Fall 2026).
+EV00007,Fall 2026,exam_period_start,Exam period begins,2026-12-07,2026-12-07,Exam period begins (Fall 2026).
+EV00008,Fall 2026,exam_period_end,Exam period ends,2026-12-18,2026-12-18,Exam period ends (Fall 2026).
+EV00009,Fall 2026,semester_end,Semester ends,2026-12-18,2026-12-18,Semester ends (Fall 2026).
+EV00010,Fall 2026,graduation,Graduation ceremony,2026-12-21,2026-12-21,Graduation ceremony (Fall 2026).
+EV00011,Spring 2027,semester_start,Semester begins,2027-01-12,2027-01-12,Semester begins (Spring 2027).
+EV00012,Spring 2027,registration_open,Registration opens,2026-10-26,2026-10-26,Registration opens (Spring 2027).
+EV00013,Spring 2027,registration_close,Registration closes,2026-11-20,2026-11-20,Registration closes (Spring 2027).
+EV00014,Spring 2027,add_drop_deadline,Add/drop deadline,2027-01-30,2027-01-30,Add/drop deadline (Spring 2027).
+EV00015,Spring 2027,exam_period_start,Exam period begins,2027-04-20,2027-04-20,Exam period begins (Spring 2027).
+EV00016,Spring 2027,exam_period_end,Exam period ends,2027-05-06,2027-05-06,Exam period ends (Spring 2027).
+EV00017,Spring 2027,semester_end,Semester ends,2027-05-08,2027-05-08,Semester ends (Spring 2027).
+EV00018,Spring 2027,graduation,Graduation ceremony,2027-05-11,2027-05-11,Graduation ceremony (Spring 2027).
+EV00019,Fall 2027,registration_open,Registration opens,2027-04-13,2027-04-13,Registration opens (Fall 2027).
+EV00020,Fall 2027,registration_close,Registration closes,2027-08-14,2027-08-14,Registration closes (Fall 2027).

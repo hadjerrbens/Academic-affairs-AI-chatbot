@@ -1,0 +1,31 @@
+course_code,title,credits,level,department,prereqs,min_grade,terms_offered,description
+BUS101,Principles of Management,4,100,BUS,,1.0,Fall,Principles of Management for BUS majors.
+BUS106,Principles of Management 2,1,100,BUS,,1.0,Fall,Principles of Management 2 for BUS majors.
+BUS202,Marketing,3,200,BUS,BUS101|MATH106,1.0,Spring,Marketing for BUS majors.
+BUS207,Marketing 2,2,200,BUS,BUS101,1.0,Fall|Spring,Marketing 2 for BUS majors.
+BUS303,Accounting,2,300,BUS,BUS202|BUS106,1.0,Fall|Spring,Accounting for BUS majors.
+BUS308,Accounting 2,1,300,BUS,BUS101|MATH106,3.0,Fall|Spring,Accounting 2 for BUS majors.
+BUS404,Finance,4,400,BUS,BUS106|BUS207,1.0,Fall|Spring,Finance for BUS majors.
+BUS409,Finance 2,3,400,BUS,BUS308|BUS303,1.0,Fall|Spring,Finance 2 for BUS majors.
+BUS505,Operations Management,2,500,BUS,BUS409,3.0,Fall,Operations Management for BUS majors.
+BUS510,Operations Management 2,4,500,BUS,BUS303,2.0,Fall|Spring,Operations Management 2 for BUS majors.
+CS101,Programming,1,100,CS,,1.0,Fall|Spring,Programming for CS majors.
+CS106,Computer Networks,2,100,CS,,1.0,Spring,Computer Networks for CS majors.
+CS202,Data Structures,3,200,CS,CS101|CS106|MATH106,1.0,Fall,Data Structures for CS majors.
+CS207,Software Engineering,3,200,CS,CS101,1.0,Fall|Spring,Software Engineering for CS majors.
+CS303,Algorithms,3,300,CS,CS106,1.0,Fall|Spring,Algorithms for CS majors.
+CS308,Compilers,3,300,CS,CS207,2.0,Fall|Spring,Compilers for CS majors.
+CS404,Operating Systems,3,400,CS,CS202,2.0,Fall|Spring,Operating Systems for CS majors.
+CS409,Artificial Intelligence,3,400,CS,CS308|CS207,1.0,Fall|Spring,Artificial Intelligence for CS majors.
+CS505,Databases,1,500,CS,CS202|CS106,1.0,Fall|Spring,Databases for CS majors.
+CS510,Machine Learning,2,500,CS,CS101,1.0,Fall|Spring,Machine Learning for CS majors.
+MATH101,Calculus,1,100,MATH,,1.0,Spring,Calculus for MATH majors.
+MATH106,Number Theory,4,100,MATH,,1.0,Fall,Number Theory for MATH majors.
+MATH202,Linear Algebra,3,200,MATH,MATH106|MATH101,1.0,Spring,Linear Algebra for MATH majors.
+MATH207,Real Analysis,3,200,MATH,MATH101,1.0,Fall|Spring,Real Analysis for MATH majors.
+MATH303,Discrete Mathematics,2,300,MATH,MATH202,3.0,Fall,Discrete Mathematics for MATH majors.
+MATH308,Probability,4,300,MATH,MATH106|MATH207,3.0,Fall|Spring,Probability for MATH majors.
+MATH404,Statistics,3,400,MATH,MATH303|MATH202,2.0,Fall|Spring,Statistics for MATH majors.
+MATH409,Calculus 2,3,400,MATH,MATH207,2.0,Spring,Calculus 2 for MATH majors.
+MATH505,Differential Equations,1,500,MATH,MATH409,1.0,Spring,Differential Equations for MATH majors.
+MATH510,Linear Algebra 2,3,500,MATH,MATH303,3.0,Fall,Linear Algebra 2 for MATH majors.

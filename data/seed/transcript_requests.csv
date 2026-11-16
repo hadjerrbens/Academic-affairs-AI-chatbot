@@ -1,0 +1,6 @@
+student_id,kind,delivery,fee,estimated_days,status,action_id,created_by,created_at
+s2026-1143,official,electronic,15,0,delivered,,s2026-1143,2026-09-02T09:15:00+00:00
+s2026-1143,unofficial,electronic,5,0,confirmed,act_7f2c91,s2026-1143,2026-10-14T11:40:00+00:00
+s2026-2207,official,paper,25,7,confirmed,act_3b8e04,s2026-2207,2026-10-21T08:05:00+00:00
+s2026-2207,unofficial,paper,10,7,proposed,act_9d41aa,s2026-2207,2026-10-28T16:22:00+00:00
+s2026-3312,official,electronic,15,0,proposed,,s2026-3312,2026-10-29T10:02:00+00:00

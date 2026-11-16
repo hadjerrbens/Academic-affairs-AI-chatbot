@@ -1,0 +1,5 @@
+kind,delivery,fee,days
+official,electronic,15,0
+official,paper,25,7
+unofficial,electronic,5,0
+unofficial,paper,10,7

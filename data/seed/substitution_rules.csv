@@ -1,0 +1,9 @@
+rule_id,target_course,accepted_substitutes,min_grade_points,min_grade_letter,min_credits,advisor_note,required_documents
+SUB001,BUS202,BUS207|BUS409|BUS106,2.0,C,3,Substitution for BUS202 requires advisor sign-off.,official transcript|signed substitution form
+SUB002,BUS510,BUS202|BUS409|BUS101,2.7,B-,3,Substitution for BUS510 requires advisor sign-off.,official transcript|signed substitution form
+SUB003,CS505,CS207|CS409|CS303,2.3,C+,4,Substitution for CS505 requires advisor sign-off.,official transcript|signed substitution form
+SUB004,MATH409,MATH207|MATH510|MATH202,2.7,B-,3,Substitution for MATH409 requires advisor sign-off.,official transcript|signed substitution form
+SUB005,BUS404,BUS308|BUS505|BUS207,2.3,C+,4,Substitution for BUS404 requires advisor sign-off.,official transcript|signed substitution form
+SUB006,CS308,CS510|CS409|CS106,2.0,C,3,Substitution for CS308 requires advisor sign-off.,official transcript|signed substitution form
+SUB007,MATH303,MATH308|MATH101|MATH404,2.7,B-,3,Substitution for MATH303 requires advisor sign-off.,official transcript|signed substitution form
+SUB008,BUS207,BUS510|BUS106|BUS404,3.0,B,2,Substitution for BUS207 requires advisor sign-off.,official transcript|signed substitution form
