@@ -16,12 +16,12 @@ from collections import defaultdict, deque
 from dataclasses import dataclass
 from typing import Any, AsyncIterator, Awaitable, Callable
 
-from core.labels import (
+from app.core.labels import (
     ALL_ROUTES, AREA_LABELS, AREAS_WITH_DOCS, LABEL_DESCRIPTIONS, OUT_OF_SCOPE, SMALLTALK,
 )
-from core.llm import BudgetExceeded, LLMError, LLMUnavailable, RateLimitExceeded
-from core.tools import ToolContext, ToolRegistry
-from services import chat_prompts as prompts
+from app.core.llm import BudgetExceeded, LLMError, LLMUnavailable, RateLimitExceeded
+from app.core.tools import ToolContext, ToolRegistry
+from app.services import chat_prompts as prompts
 
 log = logging.getLogger(__name__)
 

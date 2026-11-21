@@ -9,9 +9,9 @@ from __future__ import annotations
 
 from typing import Any, Callable
 
-from core.tools import ToolContext, ToolRegistry
-from data.records_repo import RecordsRepo
-from domain import records_engine as engine
+from app.core.tools import ToolContext, ToolRegistry
+from app.data.records_repo import RecordsRepo
+from app.domain import records_engine as engine
 
 
 class TranscriptNotAllowed(ValueError):

@@ -9,9 +9,10 @@ from datetime import date
 from pathlib import Path
 from typing import Any
 
-from domain.records_engine import normalise_letter
+from app.domain.records_engine import normalise_letter
 
-SEED_DIR = Path(__file__).resolve().parent / "seed"
+REPO_ROOT = Path(__file__).resolve().parents[3]
+SEED_DIR = REPO_ROOT / "data" / "seed"
 PASSING_POINTS = 1.0  # "Pass at 1.0"
 
 
@@ -21,9 +22,9 @@ def load_grade_scale(path: Path | None = None) -> list[dict[str, Any]]:
         rows = [
             {
                 "letter": normalise_letter(row["letter"]),
-                "min_pct": float(row["min_pct"]),
-                "max_pct": float(row["max_pct"]),
-                "points": float(row["points"]),
+                "min_pct": float(row["min_percentage"]),
+                "max_pct": float(row["max_percentage"]),
+                "points": float(row["grade_points"]),
             }
             for row in csv.DictReader(f)
         ]

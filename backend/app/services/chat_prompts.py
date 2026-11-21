@@ -1,5 +1,9 @@
-"""All prompts in one place, so tuning on the golden set only touches this file."""
-from core.labels import AREA_LABELS, LABEL_DESCRIPTIONS, OUT_OF_SCOPE, SMALLTALK
+from app.core.labels import (
+    AREA_LABELS,
+    LABEL_DESCRIPTIONS,
+    SMALLTALK,
+    OUT_OF_SCOPE,
+)
 
 DEGRADED_NOTE = "(AI explanation temporarily unavailable.)"
 
