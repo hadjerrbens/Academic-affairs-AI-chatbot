@@ -1,0 +1,6 @@
+{"id": "m5-01", "question": "Can I substitute BUS202 with BUS106?", "feature_area": "course_substitution", "needs_login": true, "expected_facts": ["likely_ineligible", "credits"], "must_cite": false}
+{"id": "m5-02", "question": "How do I apply for a course waiver?", "feature_area": "course_substitution", "needs_login": false, "expected_facts": ["advisor", "official transcript", "signed substitution form"], "must_cite": true}
+{"id": "m5-03", "question": "If my CS505 waiver is approved, what documents do I need to bring?", "feature_area": "course_substitution", "needs_login": true, "expected_facts": ["official transcript", "signed substitution form"], "must_cite": false}
+{"id": "m5-04", "question": "How is my CS101 final proctored?", "feature_area": "proctoring", "needs_login": true, "expected_facts": ["in_person", "photo id"], "must_cite": false}
+{"id": "m5-05", "question": "What are the technical requirements for online proctoring?", "feature_area": "proctoring", "needs_login": false, "expected_facts": ["broadband", "webcam", "microphone", "desk scan"], "must_cite": true}
+{"id": "m5-06", "question": "Can I reschedule my exam at the proctoring centre?", "feature_area": "proctoring", "needs_login": false, "expected_facts": ["24 hours"], "must_cite": true}
