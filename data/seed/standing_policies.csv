@@ -1,0 +1,2 @@
+policy_id,policy_name,good_standing_min_gpa,warning_min_gpa,probation_min_gpa,blocks_registration,blocks_transcripts,appeal_window_days,notes
+SP_DEFAULT,Undergraduate Standing Policy,3.0,2.5,2.0,"PROBATION,DISMISSAL",DISMISSAL,14,"Three thresholds produce four statuses: GOOD_STANDING, WARNING, PROBATION, DISMISSAL."

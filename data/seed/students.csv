@@ -1,0 +1,11 @@
+student_id,user_id,program_code,year,admission_term,status,has_unpaid_hold,full_name,notes
+S0000001,U0000001,BS_CS,4,Fall 2025,active,false,Nora Andersen,Demo Eligible
+S0000002,U0000002,BS_CS,4,Fall 2025,active,false,Silas Costa,Demo Near Grad
+S0000003,U0000003,BS_MATH,3,Fall 2025,active,false,Zoe Yilmaz,Demo Probation
+S0000004,U0000004,BS_BUS,3,Spring 2025,active,false,Ava Kim,Demo Warning
+S0000005,U0000005,BS_CS,3,Spring 2025,active,false,Maya Andersen,Demo Repeat
+S0000006,U0000006,BS_MATH,3,Fall 2023,active,false,Mia Zhang,Demo Repeat Worse
+S0000007,U0000007,BS_BUS,2,Fall 2025,active,false,Zoe Petrov,Demo F
+S0000008,U0000008,BS_CS,2,Fall 2024,active,false,Noah Kaur,Demo Clash
+S0000009,U0000009,BS_BUS,3,Fall 2025,active,true,Nora Novak,Demo Hold
+S0000010,U0000010,BS_CS,3,Fall 2025,dismissed,false,Nora Moreau,Demo Dismissed

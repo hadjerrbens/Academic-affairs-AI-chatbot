@@ -1,0 +1,31 @@
+# M2-owned sections: copy into kb/schema.toml (managed by M3's generator).
+# Column order and names match the approved seed exactly.
+[programs]
+file = "data/seed/programs.csv"
+predicate = "program"
+columns = ["program_code:atom", "name:string", "degree_type:atom", "total_credits_required:number", "min_gpa:number", "home_department:atom"]
+
+[requirement_groups]
+file = "data/seed/requirement_groups.csv"
+predicate = "req_group_raw"
+columns = ["group_id:atom", "program_code:atom", "group_type:atom", "title:string", "min_courses:number", "min_credits:number", "min_grade_points:number", "note:string"]
+
+[requirement_group_courses]
+file = "data/seed/requirement_group_courses.csv"
+predicate = "req_group_course"
+columns = ["group_id:atom", "course_code:atom"]
+
+[standing_policies]
+file = "data/seed/standing_policies.csv"
+predicate = "standing_policy"
+columns = ["policy_id:atom", "policy_name:string", "good_standing_min_gpa:number", "warning_min_gpa:number", "probation_min_gpa:number", "blocks_registration:string", "blocks_transcripts:string", "appeal_window_days:number", "notes:string"]
+
+[students]
+file = "data/seed/students.csv"
+predicate = "student"
+columns = ["student_id:atom", "user_id:atom", "program_code:atom", "year:number", "admission_term:atom", "status:atom", "has_unpaid_hold:atom", "full_name:string", "notes:string"]
+
+[student_courses]
+file = "data/seed/student_courses.csv"
+predicate = "completed"
+columns = ["student_id:atom", "course_code:atom", "credits:number", "grade:atom", "grade_points:number", "term:atom", "status:atom", "is_repeat:atom"]

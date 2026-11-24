@@ -1,0 +1,4 @@
+program_code,name,degree_type,total_credits_required,min_gpa,home_department
+BS_CS,B.S. Computer Science,BS,32,2.0,CS
+BS_MATH,B.S. Mathematics,BS,34,2.0,MATH
+BS_BUS,B.S. Business Administration,BS,29,2.0,BUS

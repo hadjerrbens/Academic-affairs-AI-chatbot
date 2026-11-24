@@ -1,0 +1,11 @@
+user_id,email,password_hash,student_id,role,created_at,is_demo
+U0000001,s0000001@student.example.edu,"$scrypt$n=16384,r=8,p=1$7c5rmCwOmh5ehjB1q+5csA==$qHTTAA/5NAT3ngo5v+y6pY3VbEXHQE7ak6F9pkwFnxk=",S0000001,student,Fall 2025-08-20T09:00:00Z,true
+U0000002,s0000002@student.example.edu,"$scrypt$n=16384,r=8,p=1$+ed2ocj48WiT4nki46lcLw==$KQFgeh+DAmQOyq0txS81xVEaDfkgmRDWo3OgrytP2ok=",S0000002,student,Fall 2025-08-20T09:00:00Z,true
+U0000003,s0000003@student.example.edu,"$scrypt$n=16384,r=8,p=1$oORqgw9uUZyBywel/I/NyA==$5oWgT4nkxtNoHMkhKJc+rP87FsdkXuNiN1GlfMbr/yQ=",S0000003,student,Fall 2025-08-20T09:00:00Z,true
+U0000004,s0000004@student.example.edu,"$scrypt$n=16384,r=8,p=1$9OFDx4iD4bB3TmfF9Q9Mnw==$u7XXiGQXEzydcPH9B/ogc2wbKASbz1VNLDIbyRPn2IM=",S0000004,student,Spring 2025-08-20T09:00:00Z,true
+U0000005,s0000005@student.example.edu,"$scrypt$n=16384,r=8,p=1$6tsX3Kz25xbpa3smToyr5A==$TmNPDvNYduQuCXICMTRyX9MLIaz0b6rryz6Ac5GvYJo=",S0000005,student,Spring 2025-08-20T09:00:00Z,true
+U0000006,s0000006@student.example.edu,"$scrypt$n=16384,r=8,p=1$hKjQSi0azRoOhRF9pTy64Q==$ssZVMlpNLIhGreztcTEg8hE289SZfv6tDRkcnWyEd4Y=",S0000006,student,Fall 2023-08-20T09:00:00Z,true
+U0000007,s0000007@student.example.edu,"$scrypt$n=16384,r=8,p=1$/7Vf2T/vUrtT4l6EL3uqng==$5yovcmbAKbOSFkf9OIJS07gaz9M2i6BvnpkO9DUvti8=",S0000007,student,Fall 2025-08-20T09:00:00Z,true
+U0000008,s0000008@student.example.edu,"$scrypt$n=16384,r=8,p=1$lL40Rg4a/Dwk/l7a76NlxA==$M+Gc6zhEKQFZigss6NJf722uy8R42jSgmzGugIM/xlU=",S0000008,student,Fall 2024-08-20T09:00:00Z,true
+U0000009,s0000009@student.example.edu,"$scrypt$n=16384,r=8,p=1$cyXW5WWLmlbDWcMDE1/FyQ==$RGT08syMQkyTa+msotX4KsJgeGjLIO5Mq7PAuarIfSE=",S0000009,student,Fall 2025-08-20T09:00:00Z,true
+U0000010,s0000010@student.example.edu,"$scrypt$n=16384,r=8,p=1$wCtNy4dLPVI31Twev08tQQ==$VyjI6Stw5gKLK/h9KHpG5lCQQgHe99VwTDezbsJFbMw=",S0000010,student,Fall 2025-08-20T09:00:00Z,true
