@@ -1,0 +1,6 @@
+{"id":"M2-F2-01-public-BS_CS","question":"What are the degree requirements for BS_CS?","feature_area":"degree_requirements","needs_login":false,"expected_facts":["32","BS_CS_R1","BS_CS_C1"],"must_cite":false}
+{"id":"M2-F2-02-S0000001","question":"Am I eligible to graduate? Explain my completed degree requirements.","feature_area":"degree_requirements","needs_login":true,"expected_facts":["35","3.63"],"must_cite":false}
+{"id":"M2-F2-03-S0000002","question":"Which degree requirement is still missing for me?","feature_area":"degree_requirements","needs_login":true,"expected_facts":["CS404"],"must_cite":false}
+{"id":"M2-F7-01-S0000003","question":"What is my academic standing and GPA?","feature_area":"academic_standing","needs_login":true,"expected_facts":["PROBATION","2.12"],"must_cite":false}
+{"id":"M2-F7-02-S0000004","question":"What is my academic standing?","feature_area":"academic_standing","needs_login":true,"expected_facts":["WARNING","2.70"],"must_cite":false}
+{"id":"M2-F7-03-S0000010","question":"Am I academically dismissed? What is my GPA?","feature_area":"academic_standing","needs_login":true,"expected_facts":["DISMISSAL","1.33"],"must_cite":false}
